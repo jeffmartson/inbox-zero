@@ -89,7 +89,7 @@
     "dompurify": "3.2.5",
     "email-reply-parser": "1.9.4",
     "encoding": "0.1.13",
-    "eslint": "9.24.0",
+    "eslint": "10.0.0",
     "eslint-config-next": "15.3.0",
     "framer-motion": "12.6.5",
     "gmail-api-parse-message": "2.1.2",
